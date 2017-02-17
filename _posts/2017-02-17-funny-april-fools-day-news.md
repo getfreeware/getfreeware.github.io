@@ -1,6 +1,6 @@
 ---
 layout: default
-title: >
+title: 
     《南方都市报》:盘点愚人节搞笑新闻 –
     布什去年裁定Vista非法
 published: true

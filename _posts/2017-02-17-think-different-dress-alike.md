@@ -1,6 +1,6 @@
 ---
 layout: default
-title: >
+title: 
     Think different, dress alike –
     苹果计划万圣节推出乔布斯套装
 published: true

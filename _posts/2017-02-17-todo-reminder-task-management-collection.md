@@ -1,6 +1,6 @@
 ---
 layout: default
-title: >
+title: 
     免费记事管理软件 – ToDo Reminder, Task Management
     collection
 published: true

@@ -8,8 +8,7 @@ date: 2012-11-28 07:11:53
 tags: [ ]
 categories:
     - app
-permalink: >
-    /2012/11/28/gmail-10g-large-attachments-synchronized-cloud-storage.html
+permalink: /2012/11/28/gmail-10g-large-attachments-synchronized-cloud-storage.html
 ---
 你是否曾因为Gmail的附件大小限制而受到困扰？现在，你再也不用担心这个问题了。Gmail官方博客今天宣布，用户现在可以直接将Google Drive中的文件作为附件插入Gmail。
 

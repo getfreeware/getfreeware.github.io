@@ -1,6 +1,6 @@
 ---
 layout: default
-title: >
+title: 
     《时代周刊》评选出2010年度50个最佳发明，iPad居首
 published: true
 author: gro

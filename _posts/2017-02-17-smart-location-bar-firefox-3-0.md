@@ -1,6 +1,6 @@
 ---
 layout: default
-title: >
+title: 
     Smart Location Bar – Firefox 3.0
     地址栏的新功能介绍
 published: true

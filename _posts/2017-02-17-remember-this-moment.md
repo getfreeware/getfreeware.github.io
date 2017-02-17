@@ -1,6 +1,6 @@
 ---
 layout: default
-title: >
+title: 
     让我们永远铭记这一刻, 愿逝者安息,
     生者坚强
 published: true

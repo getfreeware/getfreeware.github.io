@@ -1,6 +1,6 @@
 ---
 layout: default
-title: >
+title: 
     如何使用del.icio.us的daily blog posting功能(for
     WordPress)
 published: true

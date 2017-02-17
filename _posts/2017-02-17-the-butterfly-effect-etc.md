@@ -1,6 +1,6 @@
 ---
 layout: default
-title: >
+title: 
     蝴蝶效应，青蛙现象，鳄鱼法则，鲇鱼效应，羊群效应，刺猬法则，手表定律，破窗理论，二八定律，木桶理论，马太效应，这些你都明白吗
 published: true
 author: gro

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: >
+title: 
     饭否可以访问了，可是只能看到一张头像拼图。
 published: true
 author: gro

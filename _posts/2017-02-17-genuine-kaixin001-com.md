@@ -1,6 +1,6 @@
 ---
 layout: default
-title: >
+title: 
     真假开心网案宣判:千橡被判赔40万停用开心网名称
 published: true
 author: gro

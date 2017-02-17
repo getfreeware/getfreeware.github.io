@@ -1,6 +1,6 @@
 ---
 layout: default
-title: >
+title: 
     花花公子1985年采访乔布斯:相信电脑可改变世界
 published: true
 author: gro
