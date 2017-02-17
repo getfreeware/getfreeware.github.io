@@ -8,8 +8,7 @@ date: 2012-02-05 07:02:01
 tags: [ ]
 categories:
     - story
-permalink: >
-    /2012/02/05/zuckerberg-open-letter-facebook-has-five-core-values.html
+permalink: /2012/02/05/zuckerberg-open-letter-facebook-has-five-core-values.html
 ---
 新浪科技讯 北京时间2月2日上午消息，Facebook今天启动IPO(首次公开招股)，计划融资50亿美元。该公司创始人、CEO马克·扎克伯格发表公开信，点明Facebook的三大愿景和五大核心价值。
 

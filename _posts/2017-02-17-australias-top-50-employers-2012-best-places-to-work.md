@@ -8,8 +8,7 @@ date: 2012-06-22 12:06:33
 tags: [ ]
 categories:
     - story
-permalink: >
-    /2012/06/22/australias-top-50-employers-2012-best-places-to-work.html
+permalink: /2012/06/22/australias-top-50-employers-2012-best-places-to-work.html
 ---
 Best places to work 2012 
 

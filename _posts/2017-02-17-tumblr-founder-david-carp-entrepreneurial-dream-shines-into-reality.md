@@ -8,8 +8,7 @@ date: 2012-02-07 01:02:06
 tags: [ ]
 categories:
     - story
-permalink: >
-    /2012/02/07/tumblr-founder-david-carp-entrepreneurial-dream-shines-into-reality.html
+permalink: /2012/02/07/tumblr-founder-david-carp-entrepreneurial-dream-shines-into-reality.html
 ---
 导语：英国《卫报》网络版周日发表针对美国轻博客Tumblr创始人兼CEO大卫•卡普(David Karp)的采访文章。大卫•卡普在接受专访时坦诚表示，为实现自己的创业梦想，他在日本期间不得不夸大年龄和阅历来寻求客户的支持。
 

@@ -15,8 +15,7 @@ tags:
     - 音乐
 categories:
     - story
-permalink: >
-    /2009/06/27/music-downloads-online-video-michael-jackson.html
+permalink: /2009/06/27/music-downloads-online-video-michael-jackson.html
 ---
 北京时间 2009 年 6 月 26 日凌晨，“流行音乐之王”迈克尔-杰克逊在洛杉矶病逝，终年 50 岁。
 

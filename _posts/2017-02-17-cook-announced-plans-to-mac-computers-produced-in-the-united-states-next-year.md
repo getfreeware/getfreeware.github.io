@@ -8,8 +8,7 @@ date: 2012-12-06 09:12:33
 tags: [ ]
 categories:
     - story
-permalink: >
-    /2012/12/06/cook-announced-plans-to-mac-computers-produced-in-the-united-states-next-year.html
+permalink: /2012/12/06/cook-announced-plans-to-mac-computers-produced-in-the-united-states-next-year.html
 ---
 新浪科技讯 北京时间12月6日晚间消息，苹果CEO蒂姆•库克(Tim Cook)在接受NBC电视台专访时宣布，明年将会把现有Mac产品线其中一条全部放到美国生产，但他未透露具体是哪条产品线。
 

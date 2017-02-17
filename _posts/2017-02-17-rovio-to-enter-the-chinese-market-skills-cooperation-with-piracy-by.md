@@ -8,8 +8,7 @@ date: 2012-06-27 10:06:27
 tags: [ ]
 categories:
     - story
-permalink: >
-    /2012/06/27/rovio-to-enter-the-chinese-market-skills-cooperation-with-piracy-by.html
+permalink: /2012/06/27/rovio-to-enter-the-chinese-market-skills-cooperation-with-piracy-by.html
 ---
 新浪科技讯 北京时间6月26日晚间消息，《愤怒的小鸟(微博)》开发商Rovio营销主管彼得·维斯特巴卡(Peter Vesterbacka)今春访问中国时看到了许多假冒的《愤怒的小鸟》相关产品，但他对此却感到很高兴。
 

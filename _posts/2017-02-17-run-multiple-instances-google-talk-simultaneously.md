@@ -12,8 +12,7 @@ tags:
     - 谷歌
 categories:
     - app
-permalink: >
-    /2008/12/07/run-multiple-instances-google-talk-simultaneously.html
+permalink: /2008/12/07/run-multiple-instances-google-talk-simultaneously.html
 ---
  
 

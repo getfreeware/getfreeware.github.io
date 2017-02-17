@@ -8,8 +8,7 @@ date: 2012-06-30 09:06:20
 tags: [ ]
 categories:
     - story
-permalink: >
-    /2012/06/30/iphone-fifth-anniversary-in-retrospect-the-iphone-before-the-launch-of-11-large-predicted.html
+permalink: /2012/06/30/iphone-fifth-anniversary-in-retrospect-the-iphone-before-the-launch-of-11-large-predicted.html
 ---
 【搜狐IT消息】北京时间6月30日消息，美国科技博客网站Business Insider周五裁文称，苹果iPhone从开始出售到本周五已经满五年时间。尽管该产品命中注定或许就是一个伟大的杰作，但是当初并不是每个人都能够看出这点的。史蒂夫·乔布斯（Steve Jobs）于2007年1月9日发布了该产品，但是五个多月之后该产品才开始销售。而在此间隔时间，对该产品的命运，许多分析师、作家和业务巨头都发表了预言。其中，一些被证明是有先见之明，而其它一些则不敢恭维。下面就是当时最为著名的十一大预言：
 

@@ -8,8 +8,7 @@ date: 2008-07-08 09:07:05
 tags: [ ]
 categories:
     - app
-permalink: >
-    /2008/07/08/quickly-create-new-folder-in-windows-explorer.html
+permalink: /2008/07/08/quickly-create-new-folder-in-windows-explorer.html
 ---
 在资源管理器中创建新文件夹并不方便, 右键菜单在第二层中才有创建新文件夹的选项, 如果系统性能不佳, 或右键菜单的项目过多, 第二层菜单的显示还会变得很迟钝. 在菜单中选新建文件夹也要来回挪动鼠标, 很费劲. 今天看到gHacks上的[一篇文章][1], 介绍了一个小软件 &#8211; BX New Folder, 可以在资源管理器中增加一个创建新文件夹的快捷键F12.
 

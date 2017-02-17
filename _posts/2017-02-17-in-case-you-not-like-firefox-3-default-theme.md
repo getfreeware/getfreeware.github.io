@@ -10,8 +10,7 @@ tags:
     - Firefox Theme
 categories:
     - app
-permalink: >
-    /2008/06/24/in-case-you-not-like-firefox-3-default-theme.html
+permalink: /2008/06/24/in-case-you-not-like-firefox-3-default-theme.html
 ---
 Firefox 3没有保留经典的1.5版主题(皮肤), 而新换的主题不合我的胃口, 不好看, 很生硬. 费了半天劲, 终于让我找到了[旧版主题][1]. 安装以后, Firefox的外观就变成了2.0的样子, 这样用起来才顺手:D
 

@@ -8,8 +8,7 @@ date: 2008-11-05 09:11:53
 tags: [ ]
 categories:
     - story
-permalink: >
-    /2008/11/05/financial-tsunami-global-it-industry-layoffs.html
+permalink: /2008/11/05/financial-tsunami-global-it-industry-layoffs.html
 ---
 > 由于某种未知原因(猜测: 大概是WordPress单篇文章字符数有限制), 不能完整的将内容放在一篇文章里, 下面是续文的链接:
 > 

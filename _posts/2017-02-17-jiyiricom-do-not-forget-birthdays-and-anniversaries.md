@@ -9,8 +9,7 @@ tags:
     - Webware
 categories:
     - app
-permalink: >
-    /2008/05/07/jiyiricom-do-not-forget-birthdays-and-anniversaries.html
+permalink: /2008/05/07/jiyiricom-do-not-forget-birthdays-and-anniversaries.html
 ---
 记忆日(jiyiri.com)可以让用户轻松记录生日和纪念日, 并支持中国农历. 在事件到期时可以通过email, 短信**(免费)**等方式及时地提醒用户. 你还可以发送电子卡片祝福朋友亲人.
 

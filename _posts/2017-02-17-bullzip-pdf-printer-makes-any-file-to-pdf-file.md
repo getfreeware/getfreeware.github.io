@@ -10,8 +10,7 @@ tags:
     - pdf printer
 categories:
     - app
-permalink: >
-    /2008/09/20/bullzip-pdf-printer-makes-any-file-to-pdf-file.html
+permalink: /2008/09/20/bullzip-pdf-printer-makes-any-file-to-pdf-file.html
 ---
 Bullzip PDF Printer可以在系统中添加虚拟的打印设备, 通过这个虚拟的打印机, 用户可以把任意文件打印成PDF文件.
 

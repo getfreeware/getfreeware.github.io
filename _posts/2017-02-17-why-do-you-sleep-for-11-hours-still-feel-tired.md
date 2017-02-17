@@ -8,8 +8,7 @@ date: 2010-08-29 11:08:30
 tags: [ ]
 categories:
     - story
-permalink: >
-    /2010/08/29/why-do-you-sleep-for-11-hours-still-feel-tired.html
+permalink: /2010/08/29/why-do-you-sleep-for-11-hours-still-feel-tired.html
 ---
 为什么你睡了11个小时仍然觉得疲累？
 

@@ -8,8 +8,7 @@ date: 2012-12-31 07:12:50
 tags: [ ]
 categories:
     - story
-permalink: >
-    /2012/12/31/chen-zhou-venture-do-not-keep-staring-at-the-mobile-internet.html
+permalink: /2012/12/31/chen-zhou-venture-do-not-keep-staring-at-the-mobile-internet.html
 ---
 2012年12月29日 12:23   《创业家》杂志
 

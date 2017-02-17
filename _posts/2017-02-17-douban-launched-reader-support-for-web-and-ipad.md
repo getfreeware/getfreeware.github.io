@@ -8,8 +8,7 @@ date: 2012-01-20 04:01:01
 tags: [ ]
 categories:
     - app
-permalink: >
-    /2012/01/20/douban-launched-reader-support-for-web-and-ipad.html
+permalink: /2012/01/20/douban-launched-reader-support-for-web-and-ipad.html
 ---
 新浪科技讯 1月19日晚间消息，豆瓣(微博)今日正式推出数字阅读产品“豆瓣阅读器”(read.douban.com/store)。豆瓣阅读器根据不同阅读设备特性，做了有针对性的优化处理，目前支持的设备包括Web、iPad和Kindle。
 

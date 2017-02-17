@@ -8,8 +8,7 @@ date: 2012-06-03 10:06:28
 tags: [ ]
 categories:
     - story
-permalink: >
-    /2012/06/03/it-mang-generation-the-35-year-old-into-a-line-between-place-to-place.html
+permalink: /2012/06/03/it-mang-generation-the-35-year-old-into-a-line-between-place-to-place.html
 ---
 一年半的时间里，曾小亮两上八宝山。
 

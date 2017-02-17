@@ -8,8 +8,7 @@ date: 2008-02-18 10:02:38
 tags: [ ]
 categories:
     - story
-permalink: >
-    /2008/02/18/russia-become-the-kingdom-of-malicious-software.html
+permalink: /2008/02/18/russia-become-the-kingdom-of-malicious-software.html
 ---
 中国终于被摘去了恶意软件王国的称号,这一头衔将由俄罗斯替代.
   

@@ -8,8 +8,7 @@ date: 2009-02-11 10:02:05
 tags: [ ]
 categories:
     - story
-permalink: >
-    /2009/02/11/former-head-of-microsofts-windows-became-rock-star.html
+permalink: /2009/02/11/former-head-of-microsofts-windows-became-rock-star.html
 ---
 据科技博客Venturebeat报道，科技业的偶像人物通常被外界称为“摇滚巨星”，但也有人确实转型成为了摇滚明星，他就是微软Windows前负责人吉姆·阿尔琴(Jim Allchin)，他的首张唱片《Enigma》将于下周推出。 
 

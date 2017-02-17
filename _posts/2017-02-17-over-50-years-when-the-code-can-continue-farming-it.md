@@ -8,8 +8,7 @@ date: 2012-09-20 06:09:45
 tags: [ ]
 categories:
     - story
-permalink: >
-    /2012/09/20/over-50-years-when-the-code-can-continue-farming-it.html
+permalink: /2012/09/20/over-50-years-when-the-code-can-continue-farming-it.html
 ---
 背景：我30出头，但我周围却有一批比我老得多的程序员。以下是我的个人观点，不代表雇主。
 

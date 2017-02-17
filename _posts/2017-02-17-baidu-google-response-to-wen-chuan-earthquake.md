@@ -8,8 +8,7 @@ date: 2008-05-13 10:05:55
 tags: [ ]
 categories:
     - story
-permalink: >
-    /2008/05/13/baidu-google-response-to-wen-chuan-earthquake.html
+permalink: /2008/05/13/baidu-google-response-to-wen-chuan-earthquake.html
 ---
 发生在四川汶川的大地震引起了社会各界的广泛关注. 国家领导人亲临现场看望受灾群众, 指挥救灾工作. 广大人民群众和各机关企业等也纷纷捐款支援灾区. 关于大地震的种种消息, 新闻也快速的再网络上传播.
 

@@ -8,8 +8,7 @@ date: 2012-02-05 08:02:56
 tags: [ ]
 categories:
     - story
-permalink: >
-    /2012/02/05/rim-imperial-crisis-dual-mistakes-year-market-value-or-75.html
+permalink: /2012/02/05/rim-imperial-crisis-dual-mistakes-year-market-value-or-75.html
 ---
 2011年初，RIM市值超过300亿美元，如今仅剩70亿美元，短短一年时间跌幅超过75%。
 
